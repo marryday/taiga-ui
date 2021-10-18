@@ -52,6 +52,7 @@ jobs:
                   npm run build addon-charts
                   npm run build addon-commerce
                   npm run build addon-mobile
+                  npm run build addon-preview
                   npm run build addon-doc
                   npm run build addon-editor
                   npm run build addon-table
